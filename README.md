@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi there! 👋
+I'm a Full-Stack Developer with a passion for building fast, clean, and visually engaging digital experiences. I love combining smooth UI animations, 3D elements, and scalable backend logic to create applications that feel modern and alive.
 
-<!--
-**1honoredcode1/1honoredcode1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tech Stack
+Frontend
+⚛️ React
+▲ Next.js
+🌿 Vue
+🎨 Tailwind CSS
+🎥 Framer Motion
+🧩 Three.js • Spline
+🧠 TypeScript & JavaScript
 
-Here are some ideas to get you started:
+Backend / Databases
+🟣 Node.js (Express / Next API Routes)
+🍃 MongoDB
+🗃️ SQL
+🟪 Supabase
+🔐 Auth.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 What I Love Building
+- Smooth, animated, game-style interfaces
+- 3D interactive websites
+- Full-stack applications with clean architecture
+- Dashboards, SaaS tools, and modern UI systems
+- Anything involving motion, creativity, and good vibes ✨
+
+🎯 Current Goal
+I’m actively looking for a Full-Stack Developer role where I can contribute, learn, and grow with a great team.
+
+🤝 A Bit About Me
+- Friendly, positive, and easy to work with
+- Design-minded — I care about the feel of a product
+- Constant learner: always exploring new tools & techniques
+- Focused on writing clean, maintainable, scalable code
+
+📫 Get in Touch
+
+Email: klevis25sfj@gmail.com 
+
+Portfolio: https://klevisweb.com
+
+✨ Thanks for visiting!
+If you enjoy my work, feel free to check out my repositories — I’m always building something new. 🚀
